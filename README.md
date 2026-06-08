@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # infra-principal-auy1105-grupo-1
 
 Repositorio principal del grupo AM-GL para la asignatura Infraestructura como Codigo II (AUY1105) - DuocUC.
